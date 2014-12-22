@@ -12,6 +12,7 @@ int _tmain(int argc, _TCHAR* argv[])
     char a1[100];
 	std::cout<<"Здравствуй весь мир!\n";
 	std::cout<<" 1  Здравствуй весь мир!\n";
+	std::cout<<"2  Здравствуй весь мир!\n";
 	cin>> a1;
 	cout << a1 <<endl;
 	system("pause");  //выв: "для продолжения ......."
