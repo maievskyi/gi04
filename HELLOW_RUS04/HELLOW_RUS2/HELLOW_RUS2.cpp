@@ -14,6 +14,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	std::cout<<" 1  Здравствуй весь мир!\n";
 	std::cout<<"2  Здравствуй весь мир!\n";
 	std::cout<<"3  Здравствуй весь мир!\n";
+	std::cout<<"4  Здравствуй весь мир!\n";
 	cin>> a1;
 	cout << a1 <<endl;
 	system("pause");  //выв: "для продолжения ......."
